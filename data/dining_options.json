@@ -927,5 +927,22 @@
     "verified": "2026-11-23",
     "searchLoc": "47[*]Merrill Market",
     "occupancyKey": "Merrill Market"
+  },
+  {
+    "title": "Meal Plans & Balances",
+    "type": "dining-hall",
+    "notice": "Check Slug Points, top up, and buy plans in Atrium Campus Connect.",
+    "externalUrl": "https://connectucsc.atriumcampus.com/",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "note": "info card — Atrium Campus Connect replaced the retired GET app (Aug 2026); hours intentionally empty so it renders as a link tile",
+    "verified": "2026-11-23"
   }
 ]
