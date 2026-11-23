@@ -21,10 +21,13 @@
       ]
     },
     {
-      "name": "csslib",
-      "version": "1.0.2",
+      "name": "http",
+      "version": "1.6.0",
       "dependencies": [
-        "source_span"
+        "async",
+        "http_parser",
+        "meta",
+        "web"
       ]
     },
     {
@@ -34,6 +37,41 @@
         "collection",
         "path",
         "term_glyph"
+      ]
+    },
+    {
+      "name": "csslib",
+      "version": "1.0.2",
+      "dependencies": [
+        "source_span"
+      ]
+    },
+    {
+      "name": "web",
+      "version": "1.1.2",
+      "dependencies": []
+    },
+    {
+      "name": "meta",
+      "version": "1.19.0",
+      "dependencies": []
+    },
+    {
+      "name": "http_parser",
+      "version": "4.1.2",
+      "dependencies": [
+        "collection",
+        "source_span",
+        "string_scanner",
+        "typed_data"
+      ]
+    },
+    {
+      "name": "async",
+      "version": "2.13.1",
+      "dependencies": [
+        "collection",
+        "meta"
       ]
     },
     {
@@ -52,31 +90,6 @@
       "dependencies": []
     },
     {
-      "name": "http",
-      "version": "1.6.0",
-      "dependencies": [
-        "async",
-        "http_parser",
-        "meta",
-        "web"
-      ]
-    },
-    {
-      "name": "web",
-      "version": "1.1.2",
-      "dependencies": []
-    },
-    {
-      "name": "http_parser",
-      "version": "4.1.2",
-      "dependencies": [
-        "collection",
-        "source_span",
-        "string_scanner",
-        "typed_data"
-      ]
-    },
-    {
       "name": "typed_data",
       "version": "1.4.0",
       "dependencies": [
@@ -89,19 +102,6 @@
       "dependencies": [
         "source_span"
       ]
-    },
-    {
-      "name": "async",
-      "version": "2.13.1",
-      "dependencies": [
-        "collection",
-        "meta"
-      ]
-    },
-    {
-      "name": "meta",
-      "version": "1.19.0",
-      "dependencies": []
     }
   ],
   "configVersion": 1

@@ -1,0 +1,107 @@
+{
+  "3. West Field House": [
+    [
+      1795420915185,
+      0,
+      400
+    ]
+  ],
+  "Activities Room": [
+    [
+      1795420915185,
+      1,
+      23
+    ]
+  ],
+  "Dance Studio": [
+    [
+      1795420915185,
+      14,
+      65
+    ]
+  ],
+  "EFH Pool": [
+    [
+      1795420915185,
+      0,
+      400
+    ]
+  ],
+  "East Gym": [
+    [
+      1795420915185,
+      0,
+      100
+    ]
+  ],
+  "East Outdoor Basketball Courts": [
+    [
+      1795420915185,
+      0,
+      50
+    ]
+  ],
+  "East Sand Courts": [
+    [
+      1795420915185,
+      0,
+      40
+    ]
+  ],
+  "East Tennis Courts": [
+    [
+      1795420915185,
+      0,
+      24
+    ]
+  ],
+  "East Upper Field": [
+    [
+      1795420915185,
+      0,
+      6000
+    ]
+  ],
+  "Fitness Center": [
+    [
+      1795420915185,
+      81,
+      150
+    ]
+  ],
+  "Martial Arts Studio": [
+    [
+      1795420915185,
+      5,
+      35
+    ]
+  ],
+  "Slug Shed": [
+    [
+      1795420915185,
+      7,
+      36
+    ]
+  ],
+  "West Outdoor Basketball Courts Occupancy Details": [
+    [
+      1795420915185,
+      0,
+      20
+    ]
+  ],
+  "West Sand Courts Occupancy Details": [
+    [
+      1795420915185,
+      0,
+      30
+    ]
+  ],
+  "West Tennis Courts": [
+    [
+      1795420915185,
+      0,
+      30
+    ]
+  ]
+}
