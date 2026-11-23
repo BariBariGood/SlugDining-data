@@ -1,0 +1,10 @@
+name: slugdining_data_tool
+description: Scraper that regenerates data/*.json from UCSC sources.
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  http: ^1.2.0
+  html: ^0.15.4

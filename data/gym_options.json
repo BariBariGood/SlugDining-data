@@ -1,0 +1,565 @@
+[
+  {
+    "title": "Fitness Center",
+    "tags": [
+      "treadmill",
+      "weights",
+      "lift",
+      "run",
+      "heartbeat"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ]
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=1799266f-57d9-4cb2-9f43-f5fd88b241db",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "East Gym",
+    "tags": [
+      "run",
+      "lift"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 7.0,
+          "close": 24
+        }
+      ],
+      "tue": [
+        {
+          "open": 7.0,
+          "close": 24
+        }
+      ],
+      "wed": [
+        {
+          "open": 7.0,
+          "close": 24
+        }
+      ],
+      "thu": [
+        {
+          "open": 7.0,
+          "close": 24
+        }
+      ],
+      "fri": [
+        {
+          "open": 7.0,
+          "close": 23.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 9.0,
+          "close": 21.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 9.0,
+          "close": 21.0
+        }
+      ]
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=bd6cf7a0-9924-4821-84d7-5a995cc63081",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "West Field House",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 19.5,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 21.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 19.5,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 21.5,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 19.5,
+          "close": 23.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=dce84fd0-83b4-4dbc-8f0e-5b614adf3f88",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Dance Studio",
+    "tags": [
+      "stretching"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ]
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=ec7c38a4-d9f9-4927-921e-d8ea535d65e1",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Activities Room",
+    "tags": [
+      "stretching"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ]
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=f0b846c9-23ba-445c-b04f-6238f7d4ad31",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Martial Arts Studio",
+    "tags": [
+      "stretching"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ]
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=103db41b-752c-48d9-8b1e-37ca68533896",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Slug Shed",
+    "tags": [
+      "lift",
+      "weights"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ]
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=6b4acca4-485d-44f9-93c7-391a7526e3fc",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "East Tennis Courts",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 6.0,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 6.0,
+          "close": 22.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ]
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=dfb62bb2-fa44-43f7-886d-9ba4f958d695",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "EFH Pool",
+    "tags": [
+      "swimmer"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=6b74539d-7ad2-4aa5-92c5-471f9fcccdea",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "East Upper Field",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=6337894d-9b88-4872-add3-c29f783055c2",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "East Lower Field",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=8aac544c-0cde-4307-8f3c-efa81801a22f",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "West Tennis Courts",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=4b226085-b0ba-4de9-a769-1d8109fbb30f",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "The RAQ",
+    "tags": [],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://campusrec.ucsc.edu/Facility/GetFacility?facilityId=69b8b25b-66f4-4fa0-8bc5-2c712572da19",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "East Outdoor Basketball Courts",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "note": "no Campus Rec facility page — hours maintained manually",
+    "verified": "2026-11-22"
+  },
+  {
+    "title": "West Outdoor Basketball Courts",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "note": "no Campus Rec facility page — hours maintained manually",
+    "verified": "2026-11-22"
+  },
+  {
+    "title": "East Sand Courts",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "note": "no Campus Rec facility page — hours maintained manually",
+    "verified": "2026-11-22"
+  },
+  {
+    "title": "West Sand Courts",
+    "tags": [
+      "run"
+    ],
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "note": "no Campus Rec facility page — hours maintained manually",
+    "verified": "2026-11-22"
+  }
+]

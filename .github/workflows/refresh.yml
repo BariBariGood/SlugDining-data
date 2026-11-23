@@ -1,0 +1,31 @@
+name: refresh-data
+
+on:
+  schedule:
+    - cron: '0 14 * * 1' # Mondays 06:00 PT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+      - run: dart pub get
+      - run: dart run tool/scrape.dart
+      - name: Commit regenerated data
+        run: |
+          git config user.name "slugdining-data-bot"
+          git config user.email "slugdining-data-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Regenerate location hours from UCSC sources"
+            git push
+          fi

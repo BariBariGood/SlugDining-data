@@ -1,0 +1,895 @@
+[
+  {
+    "title": "C9/JRL",
+    "type": "dining-hall",
+    "route": "/c9jrl",
+    "foodProId": "40",
+    "menuTitle": "C9/JRL Dining Hall Menu",
+    "menuTabs": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Late Night"
+    ],
+    "menuExcludeAllDay": true,
+    "autoAdvanceAtHour": 23,
+    "statusName": "College Nine⁄JRL Dining Hall",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 9.0,
+          "close": 22.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ]
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/nine-jrl/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Cowell/Stevenson",
+    "type": "dining-hall",
+    "route": "/cowellstevenson",
+    "foodProId": "05",
+    "menuTitle": "Cowell/Stevenson Dining Hall Menu",
+    "menuTabs": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Late Night"
+    ],
+    "menuExcludeAllDay": true,
+    "autoAdvanceAtHour": 23,
+    "statusName": "Cowell/Stevenson Dining Hall",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 9.0,
+          "close": 22.0
+        }
+      ]
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/cowell-stevenson/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Crown/Merrill",
+    "type": "dining-hall",
+    "route": "/crownmerrill",
+    "foodProId": "20",
+    "menuTitle": "Crown/Merrill Dining Hall Menu",
+    "menuTabs": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "menuExcludeAllDay": true,
+    "autoAdvanceAtHour": 23,
+    "statusName": "Crown⁄Merrill Dining Hall",
+    "hours": {
+      "mon": [
+        {
+          "open": 7.0,
+          "close": 20.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 7.0,
+          "close": 20.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 7.0,
+          "close": 20.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 7.0,
+          "close": 20.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 7.0,
+          "close": 20.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/crown-merrill/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Porter/Kresge",
+    "type": "dining-hall",
+    "route": "/porterkresge",
+    "foodProId": "25",
+    "menuTitle": "Porter/Kresge Dining Hall Menu",
+    "menuTabs": [
+      "Breakfast",
+      "Lunch",
+      "Dinner"
+    ],
+    "menuExcludeAllDay": true,
+    "autoAdvanceAtHour": 23,
+    "statusName": "Porter ⁄ Kresge Dining Hall",
+    "hours": {
+      "mon": [
+        {
+          "open": 7.0,
+          "close": 19.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 7.0,
+          "close": 19.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 7.0,
+          "close": 19.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 7.0,
+          "close": 19.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 7.0,
+          "close": 19.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/porter-kresge/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "RCC/Oakes",
+    "type": "dining-hall",
+    "route": "/rachelcarsonoakes",
+    "foodProId": "30",
+    "menuTitle": "RCC/Oakes Dining Hall Menu",
+    "menuTabs": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Late Night"
+    ],
+    "menuExcludeAllDay": true,
+    "autoAdvanceAtHour": 23,
+    "statusName": "Rachel Carson⁄Oakes Dining Hall",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 22.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sat": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ],
+      "sun": [
+        {
+          "open": 9.0,
+          "close": 22.0
+        }
+      ]
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/rcc-oakes/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Banana Joe's Late Night",
+    "type": "dining-hall",
+    "route": "/bananajoes",
+    "foodProId": "21",
+    "menuTitle": "Banana Joe's Late Night Menu",
+    "menuTabs": [
+      "Late Night"
+    ],
+    "menuExcludeAllDay": true,
+    "statusName": "Banana Joe's Late Night",
+    "notice": "Only accepting physical student ID cards and credit cards right now.",
+    "hours": {
+      "mon": [
+        {
+          "open": 20.0,
+          "close": 23.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 20.0,
+          "close": 23.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 20.0,
+          "close": 23.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 20.0,
+          "close": 23.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 20.0,
+          "close": 23.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/banana-joes/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Oakes Cafe",
+    "type": "cafe",
+    "route": "/oakescafe",
+    "foodProId": "23",
+    "menuTitle": "Oakes Cafe Menu",
+    "menuTabs": [
+      "Breakfast",
+      "All Day"
+    ],
+    "menuExcludeAllDay": false,
+    "statusName": "Oakes Cafe",
+    "hours": {
+      "mon": [
+        {
+          "open": 10.0,
+          "close": 21.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 10.0,
+          "close": 21.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 10.0,
+          "close": 21.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 10.0,
+          "close": 21.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 10.0,
+          "close": 21.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/oakes-cafe/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Global Village Cafe",
+    "type": "cafe",
+    "route": "/globalvillagecafe",
+    "foodProId": "46",
+    "menuTitle": "Global Village Cafe Menu",
+    "menuTabs": [
+      "Menu"
+    ],
+    "menuExcludeAllDay": true,
+    "statusName": "Global Village Cafe",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/global-village/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Owl's Nest Cafe",
+    "type": "cafe",
+    "route": "/owlsnestcafe",
+    "foodProId": "24",
+    "menuTitle": "Owl's Nest Cafe Menu",
+    "menuTabs": [
+      "Breakfast",
+      "All"
+    ],
+    "menuExcludeAllDay": false,
+    "statusName": "Owl's Nest",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/owls-nest/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "University Center Cafe",
+    "type": "cafe",
+    "route": "/ucencoffeebar",
+    "foodProId": "45",
+    "menuTitle": "University Center Cafe Menu",
+    "menuTabs": [
+      "Menu"
+    ],
+    "menuExcludeAllDay": true,
+    "statusName": "University Center Cafe",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 16.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 16.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 16.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 16.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 14.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/ucen-cafe/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "University Center Bistro",
+    "type": "cafe",
+    "statusName": "University Center Bistro",
+    "notice": "Temporarily closed.",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/ucen-bistro/",
+    "verified": "2026-11-22"
+  },
+  {
+    "title": "Stevenson Coffee House",
+    "type": "cafe",
+    "route": "/stevensoncoffeehouse",
+    "foodProId": "26",
+    "menuTitle": "Stevenson Coffee House Menu",
+    "menuTabs": [
+      "Menu"
+    ],
+    "menuExcludeAllDay": true,
+    "statusName": "Stevenson Coffee House",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/stevenson-coffee/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Perk: Baskin Engineering",
+    "type": "cafe",
+    "route": "/perkcoffeebarb",
+    "foodProId": "22",
+    "menuTitle": "Perk: Baskin Engineering",
+    "menuTabs": [
+      "ALL"
+    ],
+    "menuExcludeAllDay": true,
+    "statusName": "Perk Coffee Bar at Baskin Engineering",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 17.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/perk-baskin/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Perk: Earth and Marine Sciences",
+    "type": "cafe",
+    "route": "/perkcoffeebare",
+    "foodProId": "22",
+    "menuTitle": "Perk: Earth and Marine Sciences",
+    "menuTabs": [
+      "ALL"
+    ],
+    "menuExcludeAllDay": true,
+    "statusName": "Perk Coffee Bar at Earth & Marine Sciences",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 17.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/perk-earth-marine/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Perk: Physical Sciences",
+    "type": "cafe",
+    "route": "/perkcoffeebarp",
+    "foodProId": "22",
+    "menuTitle": "Perk: Physical Sciences",
+    "menuTabs": [
+      "ALL"
+    ],
+    "menuExcludeAllDay": true,
+    "statusName": "Perk Coffee Bar at Physical Sciences Building",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 18.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 17.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/perk-physical-sciences/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Cafe Iveta",
+    "type": "cafe",
+    "notice": "Independent cafe in Graduate Student Commons — not part of UCSC Dining meal plans.",
+    "externalUrl": "https://dining.ucsc.edu/locations-hours/",
+    "hours": {
+      "mon": [
+        {
+          "open": 9,
+          "close": 17
+        }
+      ],
+      "tue": [
+        {
+          "open": 9,
+          "close": 17
+        }
+      ],
+      "wed": [
+        {
+          "open": 9,
+          "close": 17
+        }
+      ],
+      "thu": [
+        {
+          "open": 9,
+          "close": 17
+        }
+      ],
+      "fri": [
+        {
+          "open": 9,
+          "close": 17
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "verified": "2026-11-23",
+    "note": "independent cafe — not on dining.ucsc.edu; hours maintained manually"
+  },
+  {
+    "title": "Food Trucks",
+    "type": "cafe",
+    "notice": "Rotating vendors — check dining.ucsc.edu for today's lineup.",
+    "externalUrl": "https://dining.ucsc.edu/locations-hours/",
+    "hours": {
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [],
+      "sun": []
+    },
+    "verified": "2026-11-23",
+    "note": "rotating vendors, no fixed hours — links out to dining.ucsc.edu"
+  },
+  {
+    "title": "Porter Market",
+    "type": "market",
+    "route": "/portermarket",
+    "foodProId": "50",
+    "menuTitle": "Porter Market Menu/Items",
+    "menuTabs": [
+      "Menu"
+    ],
+    "statusName": "Porter Market",
+    "hours": {
+      "mon": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 8.0,
+          "close": 20.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/porter-market/",
+    "verified": "2026-11-23"
+  },
+  {
+    "title": "Merrill Market",
+    "type": "market",
+    "route": "/merrillmarket",
+    "foodProId": "47",
+    "menuTitle": "Merrill Market Menu/Items",
+    "menuTabs": [
+      "Menu"
+    ],
+    "statusName": "Merrill Market",
+    "hours": {
+      "mon": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ],
+      "tue": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ],
+      "wed": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ],
+      "thu": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ],
+      "fri": [
+        {
+          "open": 9.0,
+          "close": 20.0
+        }
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "source": "https://dining.ucsc.edu/locations-hours/merrill-market/",
+    "verified": "2026-11-23"
+  }
+]
