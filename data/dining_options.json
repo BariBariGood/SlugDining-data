@@ -59,7 +59,10 @@
       ]
     },
     "source": "https://dining.ucsc.edu/locations-hours/nine-jrl/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "40[*]College Nine/John R. Lewis Dining Hall",
+    "searchLabel": "College Nine/John R. Lewis Dining Hall",
+    "occupancyKey": "College 9 / John R Lewis Dining Hall"
   },
   {
     "title": "Cowell/Stevenson",
@@ -121,7 +124,10 @@
       ]
     },
     "source": "https://dining.ucsc.edu/locations-hours/cowell-stevenson/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "05[*]Cowell/Stevenson Dining Hall",
+    "searchLabel": "Cowell/Stevenson Dining Hall",
+    "occupancyKey": "Cowell / Stevenson Dining Hall"
   },
   {
     "title": "Crown/Merrill",
@@ -172,7 +178,10 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/crown-merrill/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "20[*]Crown/Merrill Dining Hall",
+    "searchLabel": "Crown/Merrill Dining Hall",
+    "occupancyKey": "Crown / Merrill Dining Hall"
   },
   {
     "title": "Porter/Kresge",
@@ -223,7 +232,10 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/porter-kresge/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "25[*]Porter/Kresge Dining Hall",
+    "searchLabel": "Porter/Kresge Dining Hall",
+    "occupancyKey": "Porter / Kresge Dining Hall"
   },
   {
     "title": "RCC/Oakes",
@@ -285,7 +297,10 @@
       ]
     },
     "source": "https://dining.ucsc.edu/locations-hours/rcc-oakes/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "30[*]Rachel Carson/Oakes Dining Hall",
+    "searchLabel": "Rachel Carson/Oakes Dining Hall",
+    "occupancyKey": "Rachel Carson Oakes Dining Hall"
   },
   {
     "title": "Banana Joe's Late Night",
@@ -334,7 +349,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/banana-joes/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "21[*]Banana Joe's",
+    "searchLabel": "Banana Joe's"
   },
   {
     "title": "Oakes Cafe",
@@ -383,7 +400,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/oakes-cafe/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "23[*]Oakes Cafe",
+    "occupancyKey": "Oakes Cafe"
   },
   {
     "title": "Global Village Cafe",
@@ -431,7 +450,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/global-village/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "46[*]Global Village Cafe",
+    "occupancyKey": "Global Village Cafe"
   },
   {
     "title": "Owl's Nest Cafe",
@@ -480,7 +501,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/owls-nest/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "24[*]Owl",
+    "searchLabel": "Owl Cafe"
   },
   {
     "title": "University Center Cafe",
@@ -528,7 +551,8 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/ucen-cafe/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "45[*]UCen Coffee Bar"
   },
   {
     "title": "University Center Bistro",
@@ -593,7 +617,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/stevenson-coffee/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "26[*]Stevenson Coffee House",
+    "occupancyKey": "Stevenson Coffee House"
   },
   {
     "title": "Perk: Baskin Engineering",
@@ -641,7 +667,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/perk-baskin/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "22[*]Perk Coffee Bars",
+    "searchLabel": "Perk Coffee Bars"
   },
   {
     "title": "Perk: Earth and Marine Sciences",
@@ -689,7 +717,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/perk-earth-marine/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "22[*]Perk Coffee Bars",
+    "searchLabel": "Perk Coffee Bars"
   },
   {
     "title": "Perk: Physical Sciences",
@@ -737,7 +767,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/perk-physical-sciences/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "22[*]Perk Coffee Bars",
+    "searchLabel": "Perk Coffee Bars"
   },
   {
     "title": "Cafe Iveta",
@@ -843,7 +875,9 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/porter-market/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "50[*]Porter Market",
+    "occupancyKey": "Porter Market"
   },
   {
     "title": "Merrill Market",
@@ -890,6 +924,8 @@
       "sun": []
     },
     "source": "https://dining.ucsc.edu/locations-hours/merrill-market/",
-    "verified": "2026-11-23"
+    "verified": "2026-11-23",
+    "searchLoc": "47[*]Merrill Market",
+    "occupancyKey": "Merrill Market"
   }
 ]
